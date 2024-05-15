@@ -1,6 +1,6 @@
 
 <h1 align="center">
- 👨🏽‍💻EBG91 - Dev Edu <br><img src="https://github.com/EBG91/EBG91/assets/107324865/f828219b-83f2-4b01-9a33-cef882d1fd74" alt="Logo" width="300">
+EBG91 - Dev Edu <br><img src="https://github.com/EBG91/EBG91/assets/107324865/f828219b-83f2-4b01-9a33-cef882d1fd74" alt="Logo" width="300">
 </h1>
 
 ## Connect With Me
